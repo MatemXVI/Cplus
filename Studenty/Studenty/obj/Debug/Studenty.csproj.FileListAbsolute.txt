@@ -1,0 +1,11 @@
+C:\Users\MatemXVI\Desktop\C++\Studenty\Studenty\bin\Debug\Studenty.exe.config
+C:\Users\MatemXVI\Desktop\C++\Studenty\Studenty\bin\Debug\Studenty.exe
+C:\Users\MatemXVI\Desktop\C++\Studenty\Studenty\bin\Debug\Studenty.pdb
+C:\Users\MatemXVI\Desktop\C++\Studenty\Studenty\obj\Debug\Studenty.csprojAssemblyReference.cache
+C:\Users\MatemXVI\Desktop\C++\Studenty\Studenty\obj\Debug\Studenty.Form1.resources
+C:\Users\MatemXVI\Desktop\C++\Studenty\Studenty\obj\Debug\Studenty.Properties.Resources.resources
+C:\Users\MatemXVI\Desktop\C++\Studenty\Studenty\obj\Debug\Studenty.StudentForm.resources
+C:\Users\MatemXVI\Desktop\C++\Studenty\Studenty\obj\Debug\Studenty.csproj.GenerateResource.cache
+C:\Users\MatemXVI\Desktop\C++\Studenty\Studenty\obj\Debug\Studenty.csproj.CoreCompileInputs.cache
+C:\Users\MatemXVI\Desktop\C++\Studenty\Studenty\obj\Debug\Studenty.exe
+C:\Users\MatemXVI\Desktop\C++\Studenty\Studenty\obj\Debug\Studenty.pdb
